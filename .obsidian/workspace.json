@@ -192,7 +192,7 @@
             }
           },
           {
-            "id": "3f3875f1ed4cc73c",
+            "id": "ce73f829e28ce01e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -267,8 +267,8 @@
   },
   "active": "981d4ae76a88fb41",
   "lastOpenFiles": [
-    "README.md",
     "TaskNotes/Views/mini-calendar-default.base",
+    "README.md",
     "TaskNotes/Views/calendar-default.base",
     "_templates/Course/4.4 - Course_V2.md",
     "_templates/Course/4.3 - CourseNote_V2.md",
@@ -302,7 +302,6 @@
     "Technical/Technical/Azure Cache for Redis (Pluralsight).md",
     "Main Dash.md",
     "Technical/Technical/SQLite vs SQL Server.md",
-    "Technical/Technical/API Authentications.md",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",
